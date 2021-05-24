@@ -6,7 +6,7 @@
 
 **1. Control Flow Graph**
 
-![alt text](https://github.com/Mato-77/SI_lab2_193113/blob/a22a330a8f6b0c2fed59b8cea7b78fbeaee56e47/CSP%20-%20graf.png)
+![alt text](https://github.com/Mato-77/SI_lab2_193113/blob/7fe0ceca417c7423a418f19fe4d36ee8219f8ddf/CSP%20-%20graf.png)
 
 **2. Цикломатска комплексност**
 
